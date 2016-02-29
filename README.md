@@ -35,7 +35,13 @@
 ##界面显示效果
 
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play1.gif )
+
+
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play2.gif  "")
+
+
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play3.gif  "")
+
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play4.gif  "")
+
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play5.gif  "")
