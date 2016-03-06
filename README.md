@@ -34,6 +34,13 @@
 
 
 ##界面显示效果
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay1.png =200x400 "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay2.png =200x400 "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay3.png =200x400 "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay4.png =200x400 "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay5.png =200x400 "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay6.png =200x400 "")
+
 
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play1.gif )
 
