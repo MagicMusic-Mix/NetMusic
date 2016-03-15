@@ -1,6 +1,9 @@
-# NetMusic
+# 仿网易云音乐-NetMusic
 
-##仿网易云音乐-前言
+##前言
+
+仿网易云音乐界面及部分功能实现
+
 项目的介绍地址：http://xiaobaiso.github.io/net-music
 
 喜欢优秀的软件，简单而简约
@@ -34,14 +37,13 @@
 
 
 ##界面显示效果
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay1.png =200x400 "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay2.png =200x400 "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay3.png =200x400 "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay4.png =200x400 "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay5.png =200x400 "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay6.png =200x400 "")
 
-
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay1.png  "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay2.png  "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay3.png  "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay4.png  "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay5.png  "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay6.png  "")
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play1.gif )
 
 
