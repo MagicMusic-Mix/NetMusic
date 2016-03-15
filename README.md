@@ -44,7 +44,10 @@
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay4.png  "")
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay5.png  "")
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay6.png  "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play1.gif )
+
+动图较大：
+
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play1.gif "")
 
 
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play2.gif  "")
