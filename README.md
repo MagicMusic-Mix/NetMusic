@@ -27,7 +27,7 @@
 
 ##项目计划思维图
 
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92.png =600x400 "")
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92.png  "")
 
 
 
@@ -47,6 +47,8 @@
 
 动图较大：
 
+![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play4.gif  "")
+
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play1.gif "")
 
 
@@ -55,6 +57,6 @@
 
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play3.gif  "")
 
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play4.gif  "")
+
 
 ![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play5.gif  "")
