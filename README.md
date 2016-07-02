@@ -38,25 +38,29 @@
 
 ##界面显示效果
 
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay1.png  "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay2.png  "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay3.png  "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay4.png  "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay5.png  "")
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/musicPlay6.png  "")
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay1.png" width="70%" height="70%">
+
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay2.png" width="70%" height="70%">
+
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay3.png" width="70%" height="70%">
+
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay4.png" width="70%" height="70%">
+
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay5.png" width="70%" height="70%">
+
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay6.png" width="70%" height="70%">
+
 
 动图较大：
 
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play4.gif  "")
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/play4.gif" width="70%" height="70%">
 
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play1.gif "")
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/play1.gif" width="70%" height="70%">
+
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/play2.gif" width="70%" height="70%">
+
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/play3.gif" width="70%" height="70%">
+
+<img src="http://7xr0og.com1.z0.glb.clouddn.com/play5.gif" width="70%" height="70%">
 
 
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play2.gif  "")
-
-
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play3.gif  "")
-
-
-
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/play5.gif  "")
