@@ -4,7 +4,7 @@
 
 仿网易云音乐界面及部分功能实现
 
-项目的介绍地址：http://xiaobaiso.github.io/net-music
+项目的介绍地址：http://xiaobaiso.me/blog/net-music.html
 
 喜欢优秀的软件，简单而简约
 
